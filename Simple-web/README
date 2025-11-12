@@ -1,0 +1,11 @@
+Lab Objective
+
+Create a simple website using HTML and CSS.
+
+Containerize it with Docker.
+
+Run and test Docker container.
+
+Deploy the site on Kubernetes using a Deployment and Service.
+
+Verify the cluster and app functionality.
