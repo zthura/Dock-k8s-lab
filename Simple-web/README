@@ -9,3 +9,10 @@ Run and test Docker container.
 Deploy the site on Kubernetes using a Deployment and Service.
 
 Verify the cluster and app functionality.
+
+Docker naming convention:
+
+Repository: thurz/my-website
+
+Tag: v1.0.0
+Example: thurz/my-website:v1.0.0
