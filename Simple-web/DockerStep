@@ -1,0 +1,14 @@
+Run Docker container 
+docker build -t thurz/my-website:v1.0.0 .
+
+docker images
+
+docker run -d --name my-website-container -p 8080:80 thurz/my-website:v1.0.0
+
+docker ps
+---------------------------------------------------------------------
+Push Docker image to Docker Hub
+docker login
+
+docker push thurz/my-website:v1.0.0
+
